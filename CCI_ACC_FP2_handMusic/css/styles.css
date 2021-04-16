@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&family=Monoton&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
+
+html {
+/*  background: url("url.jpg") no-repeat center center fixed; */
+  background-color: #eb596e;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  min-width: 100%;
+  box-sizing: border-box;
+  font-family: "Roboto", cursive;
+}
+
+
+canvas {
+  width: 100%;
+  height: 100vh;
+}
+
+video {
+  display: none;
+}
+
+h1 {
+  margin-top: 15%;
+  margin-left: 40%;
+  margin-right: 40%;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Libre Barcode 39 Text", cursive;
+  font-size: 200%;
+}
+
+h2 {
+  margin-top: 2%;
+  margin-left: 40%;
+  margin-right: 40%;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Libre Barcode 39 Text", cursive;
+  font-size: 200%;
+}
+
+h5 {
+  padding-left: 24px;
+}
+
+p {
+  margin-top: 2%;
+  margin-left: 36%;
+  margin-right: 36%;
+  line-height: 150%;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto", cursive;
+  font-size: 100%;
+}
+
+
+a:link,
+a:visited {
+  background-color: #121013;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: frames 8s infinite;
+	-webkit-animation: frames 8s infinite; /* Safari and Chrome */
+}
+
+@keyframes frames
+{
+	0% {background: #ffe227;}
+	25% {background: #eb596e;}
+  50% {background: #4d375d;} 
+  75% {background: #121013;}
+  100% {background: #ffe227;}
+}
+
+
+
+a:hover,
+a:active {
+  background-color: #272429;
+  top: 49.5%;
+  transition:all .3s;
+}
+
+.brightness {
+  filter: brightness(2);
+}
+
+.blur {
+  filter: blur(10px);
+}
+
+.contrast {
+  filter: contrast(200%);
+}
+
+#icon-cd {
+  margin-left: 1rem;
+}
+
+#icon-video {
+  margin-left: 0.5rem;
+}
+
+#loading {
+  font-size: 3rem;
+}
+
+
+
+
+input {
+ border: 2px solid rgba(255, 255, 255, 0.62);
+ border-radius: 50px;
+ position: relative;
+ cursor: pointer;
+ color:#eb596e;
+ height: 20px;
+ width: 20px;
+ filter: hue-rotate(110deg)
+}
+
+input:checked {
+  box-shadow: 0px 4px 15px 0px rgba(34, 34, 34, 0.41);
+  border-color: #ffe227;
+  background: #ffe227;
+  color: #ffe227;
+  border-radius: 50px;
+
+}
+
+#musicmachine {
+  padding-left: 8px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  display: flex;
+  background-color: #ffe227;
+
+}
+
+.drums {
+  display: flex;
+}

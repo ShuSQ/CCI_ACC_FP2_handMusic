@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+      integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/css/styles.css" />
+    <title>Catch Your Own Sounds</title>
+  </head>
+  <body>
+    <h1 id="loading">
+      Loading
+    </h1>
+
+    <h2>Music Maker</h2>
+    <div id="musicmachine">
+        <div class="drums">
+            <h5 style="margin-top: 8px; margin-bottom: 4px;">Kick:</h5>
+            <div class="kick">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+            </div>
+
+            <h5 style="margin-top: 8px; margin-bottom: 4px;">Snare:</h5>
+            <div class="snare">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+            </div>
+
+            <h5 style="margin-top: 8px; margin-bottom: 4px;">Clap:</h5>
+            <div class="clap">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+            </div>
+
+            <h5 style="margin-top: 8px; margin-bottom: 4px;">Cowbell:</h5>
+            <div class="cowbell">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+            </div>
+
+            <h5 style="margin-top: 8px; margin-bottom: 4px;">Hihat:</h5>
+            <div class="hihat">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+            </div>
+
+            <h5 style="margin-top: 8px; margin-bottom: 4px;">Perc:</h5>
+            <div class="perc">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+                <input type="checkbox">
+            </div>
+        </div>
+    </div>
+
+    <video></video>
+    <audio></audio>
+    <canvas></canvas>
+
+    <!-- Load the handtrackjs model. -->
+    <script src="https://cdn.jsdelivr.net/npm/handtrackjs@0.0.12/dist/handtrack.min.js"></script>
+    <script src="/js/handplay.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/13.3.9/Tone.min.js"></script>
+    <script src="/js/music-machine.js"></script>
+  </body>
+</html>
