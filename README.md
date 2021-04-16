@@ -10,7 +10,7 @@ YouTube：https://youtu.be/8Pg5hY85aWA
 
 You can find this project in my code repository:
 
-Github:
+Github: https://github.com/ShuSQ/CCI_ACC_FP2_handMusic
 
 ### 0.Why did I do this project? 🧐
 
