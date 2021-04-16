@@ -22,11 +22,11 @@ Image from：[34.4.magnusson.pdf](http://sro.sussex.ac.uk/id/eprint/46868/1/34.4
 
 
 
-### 1.Handtrack
+### 1.Handtrack  🖐🏼
 
 First, I need to find a way to recognize the hand and control it through the video information collected by the webcam. Among the available technical tools, we have many choices, such as TensorFlow, openCV and MediaPipe, etc. Finally, I chose Handtrack.js as the technical solution for finding hands.
 
-**What is Handtrack.js? **
+**What is Handtrack.js?**
 
 Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the browser. It frames handtracking as an object detection problem, and uses a trained convolutional neural network to predict bounding boxes for the location of hands in an image.
 
