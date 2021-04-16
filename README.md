@@ -18,7 +18,7 @@ When I was a high school student, I tried audio production software like fruitlo
 
 ![仪器型号](https://ashishdubey.xyz/static/6f2d2cab57f53c45fc61b8c6f9e68b07/fcda8/mapping-model.png)
 
-Image from：[http](http://sro.sussex.ac.uk/id/eprint/46868/1/34.4.magnusson.pdf) : [//sro.sussex.ac.uk/id/eprint/46868/1/34.4.magnusson.pdf](http://sro.sussex.ac.uk/id/eprint/46868/1/34.4.magnusson.pdf)*
+Image from：[34.4.magnusson.pdf](http://sro.sussex.ac.uk/id/eprint/46868/1/34.4.magnusson.pdf)
 
 
 
