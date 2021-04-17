@@ -63,7 +63,7 @@ const modelParams = { // 導入handtrack默認的參數模型
 };
 ```
 
-![](https://miro.medium.com/max/700/1*OvllYVN9J5saV7IToG3b6Q.gif)
+![](https://miro.medium.com/max/1080/1*OvllYVN9J5saV7IToG3b6Q.gif)
 
 I learned a lot from these materials:
 
@@ -212,7 +212,7 @@ document.documentElement.addEventListener(
   }})
 ```
 
-![](https://miro.medium.com/max/700/1*a_SrmyMXFTW8_xuoxQMHnQ.gif)
+![](https://miro.medium.com/max/1080/1*a_SrmyMXFTW8_xuoxQMHnQ.gif)
 
 I learned a lot from these materials:
 
@@ -231,4 +231,4 @@ After the whole demo is finished, I have a better understanding of webaudio and 
 4. Use MusicRNN, MusicVAE, etc. to convolve the audio, you can mix the audio through more modes.
 5. Consider tracking targets other than hands, such as facemesh, etc.
 
-![](https://miro.medium.com/max/256/1*rHce9kr6p_xB5I04X5Vssw.png)
+![](https://miro.medium.com/max/480/1*rHce9kr6p_xB5I04X5Vssw.png)
