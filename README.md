@@ -46,7 +46,8 @@ You can learn more from this code repository here:
 
 https://github.com/jasonmayes/JS-Motion-Detection
 
-![测试图片](https://miro.medium.com/max/700/1*puQvJePTArhZpAt2xZpd2g.png)
+
+![测试图片](https://miro.medium.com/max/1080/1*puQvJePTArhZpAt2xZpd2g.png)
 
 *Testing the technical solutions of tensorflow.js and fingerpose is great, but we don’t need it at the moment*
 
