@@ -2,7 +2,7 @@
 
 > Introduction: This is a simple demo work that uses handtrack.js and Tone.js; by capturing the position of the hand, it can switch the background music and change the simple filter of the canvas; similarly, a simple drums created loops by Tone.js, you can simply mix different sounds together.
 
-![](https://miro.medium.com/max/700/1*kHUqRSIohRfpMvcba9f7yA.gif)
+![](https://miro.medium.com/max/1080/1*kHUqRSIohRfpMvcba9f7yA.gif)
 
 You can try my online demo:
 
@@ -40,7 +40,7 @@ Because I am more familiar with JavaScript, and it is easier to obtain the case-
 
 Other, we can also detect the image information collected by the webcam through JavaScript, compare each frame, and then detect the motion information. This is a clever method, and it can also generate its own style of video.
 
-![](https://miro.medium.com/max/640/1*wx5wylcIlu_jCUBRbpbCbw.gif)
+![](https://miro.medium.com/max/1080/1*wx5wylcIlu_jCUBRbpbCbw.gif)
 
 You can learn more from this code repository here:
 
