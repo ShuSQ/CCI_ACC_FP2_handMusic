@@ -6,7 +6,7 @@
 
 You can try my online demo:
 
-CodeSandbox: https://ggddh.csb.app/
+CodeSandbox: https://ggddh.csb.app
 
 You can also watch the demo video online:
 
