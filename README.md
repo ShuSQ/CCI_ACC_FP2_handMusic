@@ -38,6 +38,14 @@ Handtrack.js is a library for prototyping realtime hand detection (bounding box)
 
 Because I am more familiar with JavaScript, and it is easier to obtain the case-study of Handtrack.js on the Internet; of course, in terms of calculation speed and accuracy, it is not as good as the Python+MediaPipe solution. Considering the scale of the project, the current Performance is also acceptable.
 
+Other, we can also detect the image information collected by the webcam through JavaScript, compare each frame, and then detect the motion information. This is a clever method, and it can also generate its own style of video.
+
+![](https://miro.medium.com/max/640/1*wx5wylcIlu_jCUBRbpbCbw.gif)
+
+You can learn more from this code repository here:
+
+https://github.com/jasonmayes/JS-Motion-Detection
+
 ![测试图片](https://miro.medium.com/max/700/1*puQvJePTArhZpAt2xZpd2g.png)
 
 *Testing the technical solutions of tensorflow.js and fingerpose is great, but we don’t need it at the moment*
