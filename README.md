@@ -143,11 +143,11 @@ The following articles are very helpful  for me:
 
 In addition to switching music with gestures, I also considered adding simple filters to change the effect of the video, mainly through the filter attribute of CSS, using the three effects of `blur` `brightness` `contrast`, and initially considered implementing similar to TensorFlow The effect of NST (Neural Style Transfer), considering the performance of the browser and the implementation cost, chose a more convenient filter solution.
 
-![](https://miro.medium.com/max/334/1*R68J0NlGmZwAARcD3YHHfQ.png)
+![](https://miro.medium.com/max/1000/1*R68J0NlGmZwAARcD3YHHfQ.png)
 
-![](https://miro.medium.com/max/334/1*QgHAtnhriYKtdvnIVEtbeg.png)
+![](https://miro.medium.com/max/1000/1*QgHAtnhriYKtdvnIVEtbeg.png)
 
-![](https://miro.medium.com/max/334/1*i1xyScWB4uOfetCFVoM65Q.png)
+![](https://miro.medium.com/max/1000/1*i1xyScWB4uOfetCFVoM65Q.png)
 
 ### 4.Create loops by Tone.js
 
