@@ -63,7 +63,7 @@ const modelParams = { // 導入handtrack默認的參數模型
 };
 ```
 
-![](https://miro.medium.com/max/1200/1*OvllYVN9J5saV7IToG3b6Q.gif)
+![](https://miro.medium.com/max/700/1*OvllYVN9J5saV7IToG3b6Q.gif)
 
 I learned a lot from these materials:
 
