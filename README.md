@@ -6,15 +6,15 @@
 
 You can try my online demo:
 
-CodeSandbox: https://ggddh.csb.app
+**CodeSandbox:** https://ggddh.csb.app
 
 You can also watch the demo video online:
 
-YouTube：https://youtu.be/8Pg5hY85aWA
+**YouTube:** https://youtu.be/8Pg5hY85aWA
 
 You can find this project in my code repository:
 
-Github: https://github.com/ShuSQ/CCI_ACC_FP2_handMusic
+**Github:** https://github.com/ShuSQ/CCI_ACC_FP2_handMusic
 
 ### 0.Why did I do this project? 🧐
 
